@@ -1,7 +1,8 @@
 # Of LEA interest
 A simple list of Projects that are of interest to LEAs
 
-These are of interest to us because they are developing tools or contain information we recomend to consider, use and even support.
+These are of interest to us because they are developing tools or contain information we recomend to consider. 
+In some instances, we actively support and contribute to these projects.
 
 
 ## Artificial Intelligence
