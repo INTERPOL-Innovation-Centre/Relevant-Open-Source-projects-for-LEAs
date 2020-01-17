@@ -1,5 +1,5 @@
 # Of LEA interest
-A simple list of Projects that are of interest to LEAs
+_A simple list of projects that are of interest to LEAs_
 
 These are of interest to us because they are developing tools or contain information we recomend to consider. 
 In some instances, we actively support and contribute to these projects.
