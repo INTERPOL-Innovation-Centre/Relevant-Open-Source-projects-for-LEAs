@@ -10,7 +10,7 @@ In some instances, we actively support and contribute to these projects.
 
 ## OSINT
 - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) A list of sources for Open Source Inteligence.
-*We are working on an enhanced version of this repository which will be published here as a private repository and restricted for LEA use.*
+*We are working on an enhanced and LEA only version (['CNTL-Framework'](https://github.com/VinceICPO/CNTL-Framework)) which will be published here as a private repository and restricted for LEA use.*
 
 ## Cryptocurrencies Analystics
 - [GarphSense](https://github.com/graphsense) GraphSense is a Cryptocurrencies analytical tool is currently supports Bitcoin, BitcoinCash, Dash and Zcash.
