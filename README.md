@@ -19,6 +19,10 @@ In some instances, we actively support and contribute to these projects.
 - [OnionScan] (https://github.com/s-rah/onionscan) OnionScan Project is a repository of tools and technics to scan Onion servers for vulnerabilities and human errors (mis-configuration).
 
 
+## Malware analysis and threat intel
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) is the reverse engineering framework maintained by the US National Security Agency.
+- [MISP](https://github.com/MISP) project - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform).
+
 ## Digital Forensics
 - [IPED](https://github.com/lfcnassif/IPED) IPED (Digital Evidence Processor and Indexer, original Acronym is Brazilian), a set of scripts and tools to conduct Digital Forensics evidence exploitation. It is developed by Digital Forensics Experts of the Brazilian Federal Police
 
