@@ -12,8 +12,12 @@ In some instances, we actively support and contribute to these projects.
 - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) A list of sources for Open Source Inteligence.
 *We are working on an enhanced and LEA only version (['CNTL-Framework'](https://github.com/VinceICPO/CNTL-Framework)) which will be published here as a private repository and restricted for LEA use.*
 
-## Cryptocurrencies Analystics
+## Darknet and Cryptocurrencies investigation tools
+### Cryptocurrencies Analytics
 - [GarphSense](https://github.com/graphsense) GraphSense is a Cryptocurrencies analytical tool is currently supports Bitcoin, BitcoinCash, Dash and Zcash.
+### Darknet Analytics
+- [OnionScan] (https://github.com/s-rah/onionscan) OnionScan Project is a repository of tools and technics to scan Onion servers for vulnerabilities and human errors (mis-configuration).
+
 
 ## Digital Forensics
 - [IPED](https://github.com/lfcnassif/IPED) IPED (Digital Evidence Processor and Indexer, original Acronym is Brazilian), a set of scripts and tools to conduct Digital Forensics evidence exploitation. It is developed by Digital Forensics Experts of the Brazilian Federal Police
