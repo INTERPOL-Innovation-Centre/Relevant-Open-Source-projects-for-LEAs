@@ -14,7 +14,8 @@ In some instances, we actively support and contribute to these projects.
 
 ## Darknet and Cryptocurrencies investigation tools
 ### Cryptocurrencies Analytics
-- [GarphSense](https://github.com/graphsense) GraphSense is a Cryptocurrencies analytical tool is currently supports Bitcoin, BitcoinCash, Dash and Zcash.
+- [GraphSense](https://github.com/graphsense) GraphSense is a Cryptocurrencies analytical tool is currently supports Bitcoin, BitcoinCash, Dash and Zcash.
+- [BlockChain Ecosystem](https://kumu.io/VincentD/the-blockchain-ecosystems-of-cryptocurrencies-exchangers-wallets-and-explorers#blockchains-ecosystems) This is an interactive graph representing the main Crypocurrenices, their wallet client softwares, the exchanges concerned and other useful information.
 ### Darknet Analytics
 - [OnionScan] (https://github.com/s-rah/onionscan) OnionScan Project is a repository of tools and technics to scan Onion servers for vulnerabilities and human errors (mis-configuration).
 
