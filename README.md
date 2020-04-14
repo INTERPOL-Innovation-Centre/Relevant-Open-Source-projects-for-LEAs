@@ -11,6 +11,7 @@ In some instances, we actively support and contribute to these projects.
 ## OSINT
 - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) A list of sources for Open Source Inteligence.
 *We are working on an enhanced and LEA only version (['CNTL-Framework'](https://github.com/VinceICPO/CNTL-Framework)) which will be published here as a private repository and restricted for LEA use.*
+- [Website Evidence Collector](https://github.com/EU-EDPS/website-evidence-collector)The tool Website Evidence Collector (WEC) automates the website evidence collection of storage and transfer of personal data.
 
 ## Darknet and Cryptocurrencies investigation tools
 ### Cryptocurrencies Analytics
