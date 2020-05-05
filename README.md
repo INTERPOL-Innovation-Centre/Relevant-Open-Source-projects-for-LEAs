@@ -10,8 +10,8 @@ In some instances, we actively support and contribute to these projects.
 - [Awesome NLP](https://github.com/keon/awesome-nlp) An inventory of Natural Langauge Processing resources.
 
 ## OSINT
-- [OSINT Framework](https://github.com/lockfale/OSINT-Framework) - A list of sources for Open Source Inteligence.
-*We are working on an enhanced and LEA only version (['CNTL-Framework'](https://github.com/VinceICPO/CNTL-Framework)) which will be published here as a private repository and restricted for LEA use.*
+- [OSINT Framework](https://github.com/lockfale/OSINT-Framework) - A list of resources for Open Source Inteligence.
+- [*LEA restricted* OSINT-Framework](https://github.com/INTERPOL-Innovation-Centre/OSINT-Framework) - Same as above but maintained by the INTERPOL innovation Centre, with an enhanced user interface and specific LEA resources. This repository is [For Official Use Only], contact us to be vetted.
 - [Website Evidence Collector](https://github.com/EU-EDPS/website-evidence-collector) - The tool Website Evidence Collector (WEC) automates the collection, storage and transfer of personal data, preserving metadata and documenting it for offline use. The WEC is developped and maintained by the European Data Protection Supervisor (EDPS) as a tool to test compliance to GDPR.
 
 ## Darknet and Cryptocurrencies investigation tools
