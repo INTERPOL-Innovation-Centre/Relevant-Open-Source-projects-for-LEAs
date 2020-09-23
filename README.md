@@ -6,13 +6,21 @@ In some instances, we actively support and contribute to these projects.
 
 
 ## Artificial Intelligence
+### Deepfakes
 - [Cleverhans](http://github.com/tensorflow/cleverhans) - AI aided image processing can be fooled by specific paterns. Criminals might want to exploit this weaknes. Cleverhans helps assess what TensorFlow image classification systems are vulnerable to. Cleverhans pyhton scripts will help benchmark.
+### Natural Language Processing
 - [Awesome NLP](https://github.com/keon/awesome-nlp) An inventory of Natural Langauge Processing resources.
+
+### Machine Learning
 - [Cogment](https://docs.cogment.ai) - a high-efficiency framework designed to enable the training of models in environments where humans and agents interact with the environment and each other continuously. It’s capable of distributed, multi-agent, multi-model training.
+
+## Big Data
+- [Lemur Project](http://www.lemurproject.org) A series of open source tools and huge datasets for research and development of information retrieval and text mining software
+- [Open Government Datasets](https://www.smartnation.gov.sg/resources/open-data-resources) Smart Nation Sinpagore - Open Government Datasets portal. This is a list of datasets offered by Singaporean public agencies.
 
 ## OSINT
 - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) - A list of resources for Open Source Inteligence.
-- [*LEA restricted* OSINT-Framework](https://github.com/INTERPOL-Innovation-Centre/OSINT-Framework) - Same as above but maintained by the INTERPOL innovation Centre, with an enhanced user interface and specific LEA resources. This repository is [For Official Use Only], contact us to be vetted.
+- [OSINT-Framework *LEA restricted version* ](https://github.com/INTERPOL-Innovation-Centre/OSINT-Framework) - Same as above but maintained by the INTERPOL innovation Centre, with an enhanced user interface and specific LEA resources. This repository is [For Official Use Only], contact us to be vetted.
 - [Website Evidence Collector](https://github.com/EU-EDPS/website-evidence-collector) - (WEC) automates the collection, storage and transfer of personal data, preserving metadata and documenting it for offline use. The WEC is developped and maintained by the European Data Protection Supervisor (EDPS) as a tool to test compliance to GDPR.
 
 ## Dark web and virtual asssets investigation tools
