@@ -10,15 +10,15 @@ In some instances, we actively support and contribute to these projects.
 - [Cleverhans](http://github.com/tensorflow/cleverhans) - AI aided image processing can be fooled by specific paterns. Criminals might want to exploit this weaknes. Cleverhans helps assess what TensorFlow image classification systems are vulnerable to. Cleverhans pyhton scripts will help benchmark.
 
 ### Natural Language Processing
-- [Awesome NLP](https://github.com/keon/awesome-nlp) An inventory of Natural Langauge Processing resources.
+- [Awesome NLP](https://github.com/keon/awesome-nlp) - An inventory of Natural Langauge Processing resources.
 
 ### Machine Learning
-- [Cogment](https://docs.cogment.ai) - a high-efficiency framework designed to enable the training of models in environments where humans and agents interact with the environment and each other continuously. It’s capable of distributed, multi-agent, multi-model training.
+- [Cogment](https://docs.cogment.ai) - A high-efficiency framework designed to enable the training of models in environments where humans and agents interact with the environment and each other continuously. It’s capable of distributed, multi-agent, multi-model training.
 
 ### Datasets
-- [Lemur Project](http://www.lemurproject.org) A series of open source tools and huge datasets for research and development of information retrieval and text mining software
+- [Lemur Project](http://www.lemurproject.org) - A series of open source tools and huge datasets for research and development of information retrieval and text mining software
 - [Open Government Datasets](https://www.smartnation.gov.sg/resources/open-data-resources) Smart Nation Sinpagore - Open Government Datasets portal. This is a list of datasets offered by Singaporean public agencies.
-- [Hugginface datasets] (https://github.com/huggingface/datasets) - Open-access datasets and evaluation metrics for Natural Language Processing in PyTorch, TensorFlow, NumPy and Pandas.
+- [Hugginface datasets](https://github.com/huggingface/datasets) - Open-access datasets and evaluation metrics for Natural Language Processing in PyTorch, TensorFlow, NumPy and Pandas.
 
 ## OSINT
 - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) - A list of resources for Open Source Inteligence.
