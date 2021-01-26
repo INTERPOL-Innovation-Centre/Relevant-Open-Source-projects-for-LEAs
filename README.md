@@ -24,7 +24,7 @@ In some instances, we actively support and contribute to these projects.
 - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) - A list of resources for Open Source Inteligence.
 - [OSINT-Framework *LEA restricted version* ](https://github.com/INTERPOL-Innovation-Centre/OSINT-Framework) - Same as above but maintained by the INTERPOL innovation Centre, with an enhanced user interface and specific LEA resources. This repository is [For Official Use Only], contact us to be vetted.
 - [Website Evidence Collector](https://github.com/EU-EDPS/website-evidence-collector) - (WEC) automates the collection, storage and transfer of personal data, preserving metadata and documenting it for offline use. The WEC is developped and maintained by the European Data Protection Supervisor (EDPS) as a tool to test compliance to GDPR.
-- [A list of tools](https://git.io/secres) Links to online resources & tools proposed by CompassSecurity.
+- [A list of tools](https://git.io/secres) - Links to online resources & tools proposed by CompassSecurity.
 
 ## Dark web and virtual asssets investigation tools
 ### Virtual Assets Analytics
