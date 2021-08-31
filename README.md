@@ -41,3 +41,4 @@ In some instances, we actively support and contribute to these projects.
 - [IPED](https://github.com/lfcnassif/IPED) - (Digital Evidence Processor and Indexer, original acronym is Brazilian), a set of scripts and tools to conduct Digital Forensics evidence exploitation. It is developed by Digital Forensics Experts of the Brazilian Federal Police
 
 - [CASE](https://github.com/casework) - Cyber-investigation Analysis Standard Expression (CASE) is an Ontology for cyber investigations
+- [Patagrule](https://github.com/rarecoil/pantagrule) - Although not a tool, Patagrule offers optimised rule sets for use with [HashCat](https://hashcat.net/hashcat/). These rules offers faster results based on publicly available leaked passwords sets.
