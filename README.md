@@ -14,6 +14,7 @@ In some instances, we actively support and contribute to these projects.
 
 ### Machine Learning
 - [Cogment](https://docs.cogment.ai) - A high-efficiency framework designed to enable the training of models in environments where humans and agents interact with the environment and each other continuously. It’s capable of distributed, multi-agent, multi-model training.
+- [OpenCV](https://opencv.org) - OpenCV provides a real-time optimized Computer Vision library, tools, and hardware. It also supports model execution for Machine Learning (ML) and Artificial Intelligence (AI). OpenCV is easy to integrate with Python scripting, it may be used to decode QRCodes containing cryptcurrencies public and private adresses.
 
 ### Datasets
 - [Lemur Project](http://www.lemurproject.org) - A series of open source tools and huge datasets for research and development of information retrieval and text mining software
@@ -24,14 +25,16 @@ In some instances, we actively support and contribute to these projects.
 - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) - A list of resources for Open Source Inteligence.
 - [OSINT-Framework *LEA restricted version* ](https://github.com/INTERPOL-Innovation-Centre/OSINT-Framework) - Same as above but maintained by the INTERPOL innovation Centre, with an enhanced user interface and specific LEA resources. This repository is [For Official Use Only], contact us to be vetted.
 - [Website Evidence Collector](https://github.com/EU-EDPS/website-evidence-collector) - (WEC) automates the collection, storage and transfer of personal data, preserving metadata and documenting it for offline use. The WEC is developped and maintained by the European Data Protection Supervisor (EDPS) as a tool to test compliance to GDPR.
-- [A list of tools](https://git.io/secres) - Links to online resources & tools proposed by CompassSecurity.
+- [A list of tools](https://git.io/secres) - Links to online resources & tools proposed by CompassSecurity.  
+- [Vortimo](https://www.vortimo.com/) - Vortimo (by Roelof Temmingh, one of the original Maltego crew) is software that helps you with online investigations. Vortimo turns your boring browser into a super browser. It overlays pages with a heads-up display while it records, recalls, scrapes, enrich, reports and finds web pages you’ve visited before. And it does it all locally on your computer. It is very much like (Hunchly)[https://www.hunch.ly] on steroids.
 
 ## Dark web and virtual asssets investigation tools
 ### Virtual Assets Analytics
-- [GraphSense](https://github.com/graphsense) - A Cryptocurrencies analytical tool is currently supports Bitcoin, BitcoinCash, Dash and Zcash.
+- [GraphSense](https://github.com/graphsense) - A Cryptocurrencies analytical tool is currently supports Bitcoin, Bitcoin cash, Ethereum, Litecoin and Zcash.
 - [BlockChain Ecosystem](https://kumu.io/VincentD/the-blockchain-ecosystems-of-cryptocurrencies-exchangers-wallets-and-explorers#blockchains-ecosystems) - This is an interactive graph representing the main Crypocurrenices, their wallet client softwares, the exchanges concerned and other useful information.
 ### Dark web Analytics
-- [OnionScan](https://github.com/s-rah/onionscan) - A repository of tools and technics to scan Onion servers for vulnerabilities and human errors (mis-configurations).
+- [OnionScan](https://github.com/s-rah/onionscan) - A repository of tools and technics to scan Onion servers for vulnerabilities and human errors (mis-configurations). Unfortunately this utility has not been updated for many months. There are many forks but none seems to be updated.
+- [DOT, the Darkweb Onion Transform]() - was (it also ins't maintained) a tool to scan and scrape metadata from Onion hidden services.
 
 ## Malware analysis and threat intel
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - A reverse engineering framework maintained by the US National Security Agency.
@@ -41,4 +44,4 @@ In some instances, we actively support and contribute to these projects.
 - [IPED](https://github.com/lfcnassif/IPED) - (Digital Evidence Processor and Indexer, original acronym is Brazilian), a set of scripts and tools to conduct Digital Forensics evidence exploitation. It is developed by Digital Forensics Experts of the Brazilian Federal Police
 
 - [CASE](https://github.com/casework) - Cyber-investigation Analysis Standard Expression (CASE) is an Ontology for cyber investigations
-- [Patagrule](https://github.com/rarecoil/pantagrule) - Although not a tool, Patagrule offers optimised rule sets for use with [HashCat](https://hashcat.net/hashcat/). These rules offers faster results based on publicly available leaked passwords sets.
+- [Pantagrule](https://github.com/rarecoil/pantagrule) - Although not a tool, Pantagrule offers optimised rule sets for use with [HashCat](https://hashcat.net/hashcat/). These rules offers faster results based on publicly available leaked passwords sets.
