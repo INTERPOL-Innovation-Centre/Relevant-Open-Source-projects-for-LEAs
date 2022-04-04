@@ -18,7 +18,7 @@ In some instances, we actively support and contribute to these projects.
 
 ### Datasets
 - [Lemur Project](http://www.lemurproject.org) - A series of open source tools and huge datasets for research and development of information retrieval and text mining software
-- [Open Government Datasets](https://www.smartnation.gov.sg/resources/open-data-resources) Smart Nation Sinpagore - Open Government Datasets portal. This is a list of datasets offered by Singaporean public agencies.
+- [Open Government Datasets](https://www.smartnation.gov.sg/resources/open-data-resources) Smart Nation Singapore - Open Government Datasets portal. This is a list of datasets offered by Singaporean public agencies.
 - [Hugginface datasets](https://github.com/huggingface/datasets) - Open-access datasets and evaluation metrics for Natural Language Processing in PyTorch, TensorFlow, NumPy and Pandas.
 
 ## OSINT
