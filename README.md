@@ -12,6 +12,9 @@ In some instances, we actively support and contribute to these projects.
 ### Natural Language Processing & Large Language-and-Vision Assistants and Models (llamas, llavas)
 - [Awesome NLP](https://github.com/keon/awesome-nlp) - An inventory of Natural Langauge Processing resources.
 - [Ollama](https://github.com/ollama/ollama) - "Get up and running with large language models locally". A very simple-to-use solution, efficient and stand-alone. Includes the possibility to choose from llama or llava (Video) Manifests.
+- [VFRAME](https://vframe.io/scene-summarization/) and its [Github](https://github.com/vframeio/vframe/) - Visual Forensics, Redaction, and Metadata Extraction. Uses AI to train models in explosive ordnance sportting. Could be used for other LEA related purposes, for instance under the Small Caliber Ammunition Reference Table (SCART) see: [Tech 4 Tracing](https://www.tech4tracing.  
+- [YOLOv8](https://docs.ultralytics.com) real-time object detection and image segmentation model. Check the directory of trained models at [Roboflow](https://universe.roboflow.com). Includes pre-trained models for ammunitions, firearms, licence plates, etc...  
+- [Whisper-mic](https://github.com/mallorbc/whisper_mic) - Will trasncript or interpret audio files or audio from the microphone. Works offline, tested on Mac OSX M3.
 
 ### Machine Learning
 - [Cogment](https://docs.cogment.ai) - A high-efficiency framework designed to enable the training of models in environments where humans and agents interact with the environment and each other continuously. It’s capable of distributed, multi-agent, multi-model training.
