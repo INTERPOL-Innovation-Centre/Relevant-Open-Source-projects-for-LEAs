@@ -10,8 +10,9 @@ In some instances, we actively support and contribute to these projects.
 - [Cleverhans](http://github.com/tensorflow/cleverhans) - AI aided image processing can be fooled by specific paterns. Criminals might want to exploit this weaknes. Cleverhans helps assess what TensorFlow image classification systems are vulnerable to. Cleverhans pyhton scripts will help benchmark.
 
 ### Natural Language Processing & Large Language-and-Vision Assistants and Models (llamas, llavas)
-- [Awesome NLP](https://github.com/keon/awesome-nlp) - An inventory of Natural Langauge Processing resources.
+- [Awesome NLP](https://github.com/keon/awesome-nlp) - An inventory of Natural Language Processing resources.
 - [Ollama](https://github.com/ollama/ollama) - "Get up and running with large language models locally". A very simple-to-use solution, efficient and stand-alone. Includes the possibility to choose from llama or llava (Video) Manifests.
+- [OpenGL Lab InternVL](https://github.com/OpenGVLab/InternVL) - A Pioneering Open-Source Alternative to GPT-4V the closest alternative to commercial solutions for image and video analysis.  
 - [VFRAME](https://vframe.io/scene-summarization/) and its [Github](https://github.com/vframeio/vframe/) - Visual Forensics, Redaction, and Metadata Extraction. Uses AI to train models in explosive ordnance sportting. Could be used for other LEA related purposes, for instance under the Small Caliber Ammunition Reference Table (SCART) see: [Tech 4 Tracing](https://www.tech4tracing.  
 - [YOLOv8](https://docs.ultralytics.com) real-time object detection and image segmentation model. Check the directory of trained models at [Roboflow](https://universe.roboflow.com). Includes pre-trained models for ammunitions, firearms, licence plates, etc...  
 - [Whisper-mic](https://github.com/mallorbc/whisper_mic) - Will trasncript or interpret audio files or audio from the microphone. Works offline, tested on Mac OSX M3.
